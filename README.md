@@ -17,7 +17,7 @@ Designed and deployed a full **Security Information & Event Management (SIEM) de
 
 ---
 
-# ## **📁 Lab Architecture**
+#  **📁 Lab Architecture**
 
 ```text
 Attacker Machine (Kali Linux)
@@ -41,7 +41,7 @@ Splunk Enterprise Server
 
 ---
 
-# ## **🎯 Objectives**
+#  **🎯 Objectives**
 
 * Build a complete **blue-team SIEM lab**
 * Simulate real attack techniques using Kali
@@ -51,7 +51,7 @@ Splunk Enterprise Server
 
 ---
 
-# ## **🛠️ Attack Simulations Performed**
+#  **🛠️ Attack Simulations Performed**
 
 ---
 
